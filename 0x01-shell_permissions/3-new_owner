@@ -1,2 +1,2 @@
-#!/bin/bash
-betty
+#!/bin/bashchown
+betty hello
