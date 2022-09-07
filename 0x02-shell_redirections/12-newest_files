@@ -1,1 +1,2 @@
-#!/bin/bashls -t | head
+#!/bin/basd
+grep -i bin /etc/passwd | wc -l 
